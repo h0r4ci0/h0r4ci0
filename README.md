@@ -1,3 +1,5 @@
+![image](https://github.com/h0r4ci0/h0r4ci0/assets/87150874/bdf6458b-5c45-47e5-89d4-f0583bd5e360)
+
 # h0r4ci0@github:~$ whoami
 
 Soy un estudiante de 16 años apasionado por el mundo de la tecnología, especialmente por la ingeniería informática, las telecomunicaciones y la seguridad informática. Recientemente me gradué de la ESO y tengo muchas ganas de comenzar mi trayectoria académica en la UPV con un doble grado de ingeniería informática y telecomunicaciones, con la meta de alcanzar un máster en seguridad informática.
