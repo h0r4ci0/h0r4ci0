@@ -1,4 +1,4 @@
-![image](https://github.com/h0r4ci0/h0r4ci0/assets/87150874/bdf6458b-5c45-47e5-89d4-f0583bd5e360)
+![banner](banner.png)
 
 # h0r4ci0@github:~$ whoami
 
