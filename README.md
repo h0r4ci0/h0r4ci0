@@ -42,16 +42,22 @@ Por lo que si compartes mi pasión por la tecnología y buscas a alguien motivad
 ¡Gracias!
 
 ## Contacto.
-[<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=x&logoColor=ffffff&label=HoracioManuelL2&labelColor=000000&color=282C34&link=https%3A%2F%2Fx.com%2FHoracioManuelL2">](https://x.com/HoracioManuelL2)
+<a href="https://x.com/HoracioManuelL2">
+  <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/Twitter-@HoracioManuelL2-282C34?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=101010" />
+</a>
 
-[<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Horacio%20Manuel%20Lerma%20Andr%C3%A9s&labelColor=0077B5&color=%23bfe2f5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh0r4ci0%2F">](https://www.linkedin.com/in/h0r4ci0/)
+<a href="https://www.linkedin.com/in/h0r4ci0/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Horacio%20Manuel%20Lerma%20Andr%C3%A9s-bfe2f5?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0077B5" />
+</a>
 
-[<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=telegram&logoColor=ffffff&label=%40hmm_ph&labelColor=269dd8&color=abc4db&link=https%3A%2F%2Ft.me%2Fhmm_ph">](https://t.me/hmm_ph)
+<a href="https://t.me/hmm_ph">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40hmm_ph-abc4db?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=269dd8" />
+</a>
 
------------
+<a href="https://discord.com/users/h0r4ci0#6907">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-h0r4ci0%236907-99AAB5?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=7289DA" />
+</a>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/h0r4ci0/)
-
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/HoracioManuelL2)
-
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/hmm_ph)
+<a href="mailto:horamalean@proton.me">
+  <img alt="Email" src="https://img.shields.io/badge/Email-horamalean@proton.me-bda5fc?style=for-the-badge&logo=proton&logoColor=white&labelColor=6c4cfc" />
+</a>
