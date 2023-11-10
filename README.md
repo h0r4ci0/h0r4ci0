@@ -1,6 +1,6 @@
-### 👋 ~whoami
+# 👋 ~whoami
 
-¡Hola! 😊. Me presento, mi nombre es Horacio Manuel.
+## ¡Hola! 😊. Me presento, mi nombre es Horacio Manuel.
 
 Soy un estudiante de 16 años apasionado por el mundo de la tecnología, especialmente por la ingeniería informática, las telecomunicaciones y la seguridad informática. Recientemente me gradué de la ESO y tengo muchas ganas de comenzar mi trayectoria académica en la UPV con un doble grado de ingeniería informática y telecomunicaciones, con la meta de alcanzar un máster en seguridad informática.
 
@@ -40,3 +40,18 @@ Una de las cosas que no me gusta sobre este mundillo, es que encontrar a gente q
 Por lo que si compartes mi pasión por la tecnología y buscas a alguien motivado y comprometido, me encantaría charlar contigo :D. No dudes en contactarme para intercambiar ideas o simplemente charlar.
 
 ¡Gracias!
+
+## Contacto.
+[<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=x&logoColor=ffffff&label=HoracioManuelL2&labelColor=000000&color=282C34&link=https%3A%2F%2Fx.com%2FHoracioManuelL2">](https://x.com/HoracioManuelL2)
+
+[<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=linkedin&logoColor=ffffff&label=Horacio%20Manuel%20Lerma%20Andr%C3%A9s&labelColor=0077B5&color=%23bfe2f5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh0r4ci0%2F">](https://www.linkedin.com/in/h0r4ci0/)
+
+[<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=telegram&logoColor=ffffff&label=%40hmm_ph&labelColor=269dd8&color=abc4db&link=https%3A%2F%2Ft.me%2Fhmm_ph">](https://t.me/hmm_ph)
+
+-----------
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/h0r4ci0/)
+
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/HoracioManuelL2)
+
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/hmm_ph)
