@@ -25,6 +25,11 @@ Dicen que una de las mejores formas que tiene el ser humano de aprender es a bas
 #### Proyectos actuales
 Como he dicho anteriormente, estoy en bachiller. Y para rascar algo de nota, tengo la posibilidad de presentar un trabajo de investigación. Por tanto, como me apasionan las nuevas tecnologías, estoy realizando un proyecto que involucra inteligencia artificial y análisis de señales. Ya cuando lo presente, haré una buena descripción de él.
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.roadmap.sh/v1-badge/tall/65650cbc5145316d257fd918?variant=dark">
+    <img align="right" width="25.5%" src="https://api.roadmap.sh/v1-badge/tall/65650cbc5145316d257fd918?variant=dark">
+</picture>
+
 Por otra parte, como también he mencionado antes, los fines de semana suelo hacer algún mini proyecto que luego subo a mi GitHub o comparto por redes. Ahora mismo, estoy trabajando en abrir la puerta de mi patio con el móvil, pronto subiré un repo explicándolo 😉
 
 ### Intereses
