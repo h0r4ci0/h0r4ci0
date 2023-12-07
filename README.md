@@ -65,6 +65,6 @@ Por lo que si compartes mi pasión por la tecnología y buscas a alguien motivad
 
 <br><br>
 
-<a href="public-key.asc">
+<a href="https://raw.githubusercontent.com/h0r4ci0/h0r4ci0/main/public-key.asc">
   <img alt="Email" src="https://img.shields.io/badge/GPG-Public Key-52789c?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=003a70" />
 </a>
