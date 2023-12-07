@@ -62,3 +62,9 @@ Por lo que si compartes mi pasión por la tecnología y buscas a alguien motivad
 <a href="mailto:horamalean@proton.me">
   <img alt="Email" src="https://img.shields.io/badge/Email-horamalean@proton.me-bda5fc?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=6c4cfc" />
 </a>
+
+<br><br>
+
+<a href="public-key.asc">
+  <img alt="Email" src="https://img.shields.io/badge/GPG-Public Key-52789c?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=003a70" />
+</a>
