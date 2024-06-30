@@ -59,8 +59,8 @@ Por lo que si compartes mi pasión por la tecnología y buscas a alguien motivad
   <img alt="Discord" src="https://img.shields.io/badge/Discord-h0r4ci0%236907-99AAB5?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=7289DA" />
 </a>
 
-<a href="mailto:horamalean@proton.me">
-  <img alt="Email" src="https://img.shields.io/badge/Email-horamalean@proton.me-bda5fc?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=6c4cfc" />
+<a href="mailto:horacio@horacio.one">
+  <img alt="Email" src="https://img.shields.io/badge/Email-horacio@horacio.one-ECEFF1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BCAAA4" />
 </a>
 
 <br><br>
