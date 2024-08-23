@@ -2,9 +2,7 @@
 
 # h0r4ci0@github:~$ whoami
 
-Soy un estudiante de bachiller apasionado por el mundo de la tecnología, especialmente por la ingeniería informática, las telecomunicaciones y la seguridad informática. Recientemente me gradué de la ESO y tengo muchas ganas de comenzar mi trayectoria académica en la UPV con un doble grado en telecomunicaciones y matemáticas, con la meta de alcanzar un máster en seguridad informática.
-
-Pero todavía hay tiempo, recién me estreno en bachiller 😵‍💫.
+Soy un estudiante de bachiller apasionado por el mundo de la tecnología, especialmente por las matemáticas, las telecomunicaciones y la seguridad informática. Recientemente me gradué de 1º de Bachiller y tengo muchas ganas de comenzar mi trayectoria académica en la UPV con un doble grado en telecomunicaciones y matemáticas, con la meta de alcanzar un máster en seguridad informática.
 
 ### Objetivos profesionales
 La verdad es que he tenido suerte en cuanto a mis objetivos, y es que los he tenido bastante claros desde pequeño.
